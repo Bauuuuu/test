@@ -1,0 +1,38 @@
+{
+    "mido": [
+        {
+            "date": "2018-09-28", 
+            "datetime": "20180928", 
+            "filename": "Arrow-v9.0-mido-OFFICIAL-20180928.zip", 
+            "filepath": "/mido/Arrow-v9.0-mido-OFFICIAL-20180928.zip", 
+            "sha256": "c8a4b9558dcaddd83e47972ba29803512bf03e11d78acef026c3a182a2abcddd", 
+            "size": 565319269, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "nx512j": [
+        {
+            "date": "2018-09-28", 
+            "datetime": "20180928", 
+            "filename": "Arrow-v9.0-nx512j-OFFICIAL-20180928.zip", 
+            "filepath": "/nx512j/Arrow-v9.0-nx512j-OFFICIAL-20180928.zip", 
+            "sha256": "c1142aacf1cd500e1f7b305c086d18ece36fce7bd81f21c23f8e6a212f7cec1e", 
+            "size": 546184017, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "whyred": [
+        {
+            "date": "2018-09-23", 
+            "datetime": "20180923", 
+            "filename": "Arrow-v9.0-whyred-OFFICIAL-20180923.zip", 
+            "filepath": "/whyred/Arrow-v9.0-whyred-OFFICIAL-20180923.zip", 
+            "sha256": "d2d8bb337692233ac7451d6e4fc53d53a41d5d0ef19bdfb900579b5bf9f16a59", 
+            "size": 799333450, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ]
+}
